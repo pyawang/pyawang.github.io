@@ -59,4 +59,5 @@ title: "Publications"
     * **Authors:** Yi Hang Valerie Wong, **Po-Ya Wang**, Tetsuya Hashimoto, Toshinobu Takagi, Tomotsugu Goto, Seong Jin Kim, Cossas K.-W. Wu, Alvina Y. L. On, Daryl Joe D. Santos, Ting-Yi Lu, Ece Kilerci-Eser, Simon C.-C. Ho, Tiger Y.-Y. Hsiao
     * **Journal:** *ApJ*, Vol. 929, No. 2, 161 (2022)
     * **Links:** [[DOI]](https://doi.org/10.3847/1538-4357/ac5cc7) | [[ADS]](https://ui.adsabs.harvard.edu/abs/2022ApJ...929..161W)
+
 ---
