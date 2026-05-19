@@ -1,6 +1,7 @@
 menu:
 - {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
+# - {name: 'courses', url: '/courses'}
+- {name: 'astroph-log', url: 'astroph_log'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
