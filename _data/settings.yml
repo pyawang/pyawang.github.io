@@ -14,4 +14,4 @@ menu:
 # - {icon: 'twitter', link: 'https://twitter.com/paululele'}
 
 contacts:
-- {name: 'Po-Ya Wang', title: 'Research Assitant', department: 'Institute of Astronomy', institution: 'National Tsing Hua University', image: 'assets/img/graduate_pic.jpg'}
+- {name: 'Po-Ya Wang', title: 'Research Assitant', department: 'Institute of Astronomy', institution: 'National Tsing Hua University', image: 'assets/img/graduate_pic.jpg', email: "poyawang@gapp.nthu.edu.tw"}
