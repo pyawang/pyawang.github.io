@@ -3,4 +3,4 @@ baseurl: "" # the subpath of your site, e.g. /blog
 timezone: Asia/Taipei
 future: true
 title: "Po-Ya Wang" # the name of your site, e.g. ACME Corp.
-description: "Academmic personal webpage"
+description: "Academic personal webpage"
